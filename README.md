@@ -24,6 +24,9 @@
 - :books: My blog: https://hhgyyds.blog.csdn.net/ 
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats.vercel.app/api?username=21want28k) 
