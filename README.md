@@ -8,11 +8,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="300" height="210" />
 
-*I'm hhg, I am a graduate student from Nanjing, China.* 
+𝑰'𝒎 𝒉𝒉𝒈, 𝑰 𝒂𝒎 𝒂 𝒈𝒓𝒂𝒅𝒖𝒂𝒕𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 𝒇𝒓𝒐𝒎 𝑵𝒂𝒏𝒋𝒊𝒏𝒈, 𝑪𝒉𝒊𝒏𝒂.
 
-- :school: Shcool: Hohai University
-- 🌱 Learning: I’m currently learning design pattern, Leetcode, distributed system, middleware and so on.
-- :briefcase: Professional skills：<img height="19px" src="https://img.shields.io/badge/java-grey.svg?&logo=java&logoColor=white"/> <img
+- :school: 𝑺𝒉𝒄𝒐𝒐𝒍: 𝑯𝒐𝒉𝒂𝒊 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚
+- 🌱 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈: 𝑰’𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒅𝒆𝒔𝒊𝒈𝒏 𝒑𝒂𝒕𝒕𝒆𝒓𝒏, 𝑳𝒆𝒆𝒕𝒄𝒐𝒅𝒆, 𝒅𝒊𝒔𝒕𝒓𝒊𝒃𝒖𝒕𝒆𝒅 𝒔𝒚𝒔𝒕𝒆𝒎, 𝒎𝒊𝒅𝒅𝒍𝒆𝒘𝒂𝒓𝒆 𝒂𝒏𝒅 𝒔𝒐 𝒐𝒏.
+- :briefcase: 𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝒔𝒌𝒊𝒍𝒍𝒔：<img height="19px" src="https://img.shields.io/badge/java-grey.svg?&logo=java&logoColor=white"/> <img
         height="19px" src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=green"/> <img
         height="19px" src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&logo=ubuntu&logoColor=white"/> <img
         height="19px" src="https://img.shields.io/badge/docker-%232496ED.svg?&logo=docker&logoColor=white"/> <img
@@ -20,8 +20,8 @@
         height="19px" src="https://img.shields.io/badge/git-%23F05032.svg?&logo=git&logoColor=white"/> <img
         height="19px" src="https://img.shields.io/badge/redis-%23DC382D.svg?&logo=redis&logoColor=white"/> <img
         height="19px" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?logo=rabbitmq&logoColor=white"/>
-- :heartbeat: How to reach me：<a href="https://github.com/21want28k"><img height="19px" src="https://img.shields.io/badge/github-black.svg?&logo=github"/></a> <a href="https://www.facebook.com/profile.php?id=100075279821134"><img height="19px" src="https://img.shields.io/badge/facebook-white.svg?&logo=facebook" /></a> <a href="https://github.com/21want28k/pictures/blob/master/3143332f70bca07d7a6d8aaa85632f8.jpg"><img height="19px" src="https://img.shields.io/badge/wechat-grey.svg?&logo=wechat&logoColor=green" /></a>
-- :books: My blog: https://hhgyyds.blog.csdn.net/ 
+- :heartbeat: 𝑯𝒐𝒘 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒎𝒆：<a href="https://github.com/21want28k"><img height="19px" src="https://img.shields.io/badge/github-black.svg?&logo=github"/></a> <a href="https://www.facebook.com/profile.php?id=100075279821134"><img height="19px" src="https://img.shields.io/badge/facebook-white.svg?&logo=facebook" /></a> <a href="https://github.com/21want28k/pictures/blob/master/3143332f70bca07d7a6d8aaa85632f8.jpg"><img height="19px" src="https://img.shields.io/badge/wechat-grey.svg?&logo=wechat&logoColor=green" /></a>
+- :books: 𝑴𝒚 𝒃𝒍𝒐𝒈: 𝒉𝒕𝒕𝒑𝒔://𝒉𝒉𝒈𝒚𝒚𝒅𝒔.𝒃𝒍𝒐𝒈.𝒄𝒔𝒅𝒏.𝒏𝒆𝒕/ 
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
