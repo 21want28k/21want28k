@@ -1,7 +1,25 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=21want28k)
+----
+I'm hhg, I am a graduate student from Nanjing, China.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 professional skills：<img height="19px" src="https://img.shields.io/badge/java-grey.svg?&logo=java&logoColor=white"/> <img
+        height="19px" src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=green"/> <img
+        height="19px" src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&logo=ubuntu&logoColor=white"/> <img
+        height="19px" src="https://img.shields.io/badge/docker-%232496ED.svg?&logo=docker&logoColor=white"/> <img
+        height="19px" src="https://img.shields.io/badge/mysql-%234479A1.svg?&logo=mysql&logoColor=white"/>
+- 💬 contact me：<a href="https://github.com/21want28k"><img height="19px" src="https://img.shields.io/badge/github-black.svg?&logo=github"/></a> <a href="https://www.facebook.com/profile.php?id=100075279821134"><img height="19px" src="https://img.shields.io/badge/facebook-white.svg?&logo=facebook" /></a> <a href="https://github.com/21want28k/pictures/blob/master/3143332f70bca07d7a6d8aaa85632f8.jpg"><img height="19px" src="https://img.shields.io/badge/wechat-grey.svg?&logo=wechat&logoColor=green" /></a>
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... 
+----
+![](https://github-readme-stats.vercel.app/api?username=21want28k) 
 
+<a href="https://github.com/21want28k">
+    <img src="https://img.shields.io/badge/github-black.svg?&logo=github"/>
+</a>
 <!--
 **21want28k/21want28k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
