@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=Backaround+web+developer;Self-taught+Code+Designer;Always+learning+new+things">
 </p>
 
-<p align="center">><img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="300" height="210" /></p>
+<img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="300" height="210" />
 
 𝑰'𝒎 𝒉𝒉𝒈, 𝑰 𝒂𝒎 𝒂 𝒈𝒓𝒂𝒅𝒖𝒂𝒕𝒆 𝒔𝒕𝒖𝒅𝒆𝒏𝒕 𝒇𝒓𝒐𝒎 𝑵𝒂𝒏𝒋𝒊𝒏𝒈, 𝑪𝒉𝒊𝒏𝒂.
 
