@@ -2,9 +2,9 @@
     Hi~ Thank you for coming!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=Backaround+web+developer;Self-taught+Code+Designer;Always+learning+new+things">
-</p>
+<div align="center">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=BackGround+web+developer+hhgyyds">
+</div>
 
 <img align="right" alt="GIF" src="https://github.com/pudongping/pudongping/blob/main/code.gif?raw=true" width="300" height="210" />
 
