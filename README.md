@@ -26,7 +26,7 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2022 - 29 January, 2022
+Week: 24 January, 2022 - 30 January, 2022
 
 Java    2 hrs 2 mins    █████████████████████████   99.89 % 
 ```
