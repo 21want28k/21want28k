@@ -28,7 +28,8 @@
 ```text
 Week: 26 January, 2022 - 01 February, 2022
 
-Java   1 hr 59 mins    ████████████████████████▓   99.30 % 
+Java    4 hrs 41 mins   ███████████████████████░░   91.98 % 
+CLASS   23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 ```
 <!--END_SECTION:waka-->
 
