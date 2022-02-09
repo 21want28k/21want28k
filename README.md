@@ -26,7 +26,7 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
 Java       15 hrs 3 mins   ██████████████████▓░░░░░░   74.10 % 
 YAML       2 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
