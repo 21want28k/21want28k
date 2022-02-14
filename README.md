@@ -28,8 +28,8 @@
 ```text
 Week: 07 February, 2022 - 13 February, 2022
 
-Java    5 hrs 53 mins   ████████████████████▓░░░░   83.19 % 
-CLASS   1 hr 11 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Java    4 hrs 12 mins   ███████████████████▒░░░░░   77.94 % 
+CLASS   1 hr 11 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.05 % 
 ```
 <!--END_SECTION:waka-->
 
