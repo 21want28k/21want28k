@@ -26,7 +26,7 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 24 February, 2022
+From: 18 February, 2022 - To: 25 February, 2022
 
 Java    6 hrs 12 mins   █████████████████████▒░░░   85.96 % 
 CLASS   26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
