@@ -27,14 +27,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 March 2022 - To: 24 March 2022
+From: 18 March 2022 - To: 25 March 2022
 
-Java               7 hrs 19 mins   █████████████████████▒░░░   85.39 %
-XML                49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-JavaScript         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-spring.factories   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Vue.js             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-TypeScript         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java               10 hrs 18 mins  ██████████████████████▒░░   89.17 %
+XML                49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+JavaScript         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+spring.factories   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Vue.js             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+TypeScript         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
