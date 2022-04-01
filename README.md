@@ -27,9 +27,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2022 - To: 31 March 2022
+From: 25 March 2022 - To: 01 April 2022
 
-Java   5 hrs 20 mins   █████████████████████████   100.00 %
+Java     4 hrs 5 mins    ████████████████████▓░░░░   83.08 %
+YAML     32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+XML      15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Python   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
