@@ -27,10 +27,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2022 - To: 08 April 2022
+From: 02 April 2022 - To: 09 April 2022
 
-Java   30 mins         █████████████████████▓░░░   86.32 %
-YAML   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+Java   59 mins         ███████████████████████░░   92.48 %
+YAML   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
 ```
 
 <!--END_SECTION:waka-->
