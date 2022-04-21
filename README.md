@@ -27,9 +27,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2022 - To: 20 April 2022
+From: 14 April 2022 - To: 21 April 2022
 
-Java   11 hrs 45 mins  █████████████████████████   100.00 %
+Java               14 hrs 16 mins  ███████████████████████░░   91.48 %
+Jupyter            58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Python             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+GitIgnore file     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+YAML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Text               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
