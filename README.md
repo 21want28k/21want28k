@@ -27,14 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 May 2022 - To: 21 May 2022
+From: 15 May 2022 - To: 22 May 2022
 
-Java                       5 hrs 8 mins    ███████████████████▒░░░░░   76.90 %
-Properties                 19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-Markdown                   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-SQL                        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-YAML                       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-GitIgnore file             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Java               3 hrs 57 mins   ████████████████████████▒   97.85 %
+XML                4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+spring.factories   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
