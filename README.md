@@ -27,11 +27,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 May 2022 - To: 25 May 2022
+From: 19 May 2022 - To: 26 May 2022
 
-Java               3 hrs 48 mins   ████████████████████████▒   97.77 %
-XML                4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-spring.factories   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Java   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
