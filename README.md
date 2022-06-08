@@ -27,7 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 01 June 2022 - To: 08 June 2022
+
+Java   1 hr 4 mins     █████████████████▓░░░░░░░   70.32 %
+XML    24 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
+SQL    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 ```
 
 <!--END_SECTION:waka-->
