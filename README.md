@@ -1,6 +1,6 @@
 <h3 align="center">
     Hi~ Thank you for coming!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ 
 </h3>
 <div align="center">
     <img align="center" src="https://readme-typing-svg.herokuapp.com?color=e65e2a&width=380&height=45&lines=BackGround+web+developer+hhgyyds">
